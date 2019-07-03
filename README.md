@@ -15,3 +15,4 @@ The python file help to process all files in a given location and use the YOLO d
 <b>yolopython.py</b> gives the count of the potholes in each image and the lenght and breadth.
 Next, we use another python file to process all the cropped images of each pothole and upload to our csv file.
 <h4>Finally we use multiple linear regression to Predict the depth of each pothole.</h4>
+<img src="predictions.jpg"></img>
