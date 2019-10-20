@@ -21,7 +21,7 @@ output = proc.stdout.read()
 
 type(output)
 
-
+print(output)
 # In[7]:
 
 
