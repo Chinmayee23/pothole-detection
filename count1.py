@@ -23,7 +23,7 @@ type(output)
 
 
 # In[7]:
-
+print(output)
 
 fork=['left_x:','top_y:','widht:','height:']
 
